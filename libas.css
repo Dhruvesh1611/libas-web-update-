@@ -4,7 +4,7 @@
     font-weight: lighter;
 }
  .main{
-    border: 1px solid black;
+    /* border: 1px solid black; */
 
 } 
 .navbar{
@@ -55,7 +55,7 @@
 }
 .collection{
     /* border: 1px solid black; */
-    height: 170px;
+    height: 120px;
     text-align: center;
     width: 100%;
     border:1px solid rgb(255, 255, 255)
@@ -77,13 +77,13 @@ p2{
     font-weight: 300;
 }
 .c1{
-    height: 560px;
-    border: 1px solid black;
+    height: 520px;
+    /* border: 1px solid black; */
     
 }
 .c2{
-    border: 1px solid rgb(43, 0, 255);
-    height: 560px;
+    /* border: 1px solid rgb(43, 0, 255); */
+    height: 520px;
     margin-left: 12px;
     
 }
@@ -101,17 +101,17 @@ p2{
     width: 100%;
 }
 .r1{
-    height: 580px;
-    border: 1px solid red;
+    height: 520px;
+    /* border: 1px solid red; */
 }
 .photo1{
-    width: 568px; 
+    width: 563px; 
     height: 410px;
      
 }
 .photo2{
     height: 410px;
-    width: 568px; 
+    width: 563px; 
     
 }
 .text1{
@@ -136,6 +136,7 @@ p4{
     margin-left: 20px;
     font-size: 14px;
     font-weight: 300;
+    
 }
 P5{
     display: flex;
@@ -147,7 +148,7 @@ P5{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 450px;
+    margin-left: 445px;
     margin-top: -35px;
     height: 30px;
     width: 90px;
@@ -156,7 +157,7 @@ P5{
 }
 .categories{
     /* border: 1px solid black; */
-    height: 120px;
+    height: 70px;
     text-align: center;
     width: 100%;
     margin-top: -60px;
