@@ -292,3 +292,10 @@ p8{
     height: 456px;
     width: 1080px;
 }
+.pephoto1{
+    background-image: url(https://www.libas.in/cdn/shop/articles/27th_Nov-Valentine_Day_Gifts_for_Her.webp?v=1732947708&width=1080);
+    height: 600px;
+    width: 300px;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
